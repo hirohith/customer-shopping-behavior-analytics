@@ -1,6 +1,6 @@
 🛍️Customer Shopping Behavior Analytics
 
-End-to-end retail data analytics project uncovering customer segments, spending patterns, discount dependency, and subscription behavior using Python, SQL, PostgreSQL, and Power BI.
+End-to-end retail data analytics project uncovering customer segments, spending patterns, discount dependency, and subscription behavior using Python, SQL, MYSQL, and Power BI.
 
 📌 Business Objective
 
